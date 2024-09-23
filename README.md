@@ -10,5 +10,5 @@ Educational Tools: Helping users learn by answering questions on various topics.
 
 ## Results
 
-![Result](img/Screenshot 2024-09-23 191722.png)
-![Result](img/Screenshot 2024-09-23 191807.png)
+![Result 1](img/Screenshot%2024-09-23%20191722.png)
+![Result 2](img/Screenshot%2024-09-23%20191807.png)
